@@ -6,7 +6,7 @@ Each of the zip files contains a complete DeepLabCut project which has been trai
 
 ## Setup
 ### Step 1: Install DeepLabCut
-To get started, install DeepLabCut according to the instructions at https:/deeplabcut.org.
+To get started, install DeepLabCut according to the instructions at (https://deeplabcut.org).
 
 ### Step 2: Choose Project and Extract
 Choose one of the zip files from this GitHub and extract it to a location on your machine.
