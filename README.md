@@ -46,5 +46,5 @@ deeplabcut.analyze_videos(config_path, videos)
 ```
 Create a labeled video using the predictions:
 ```python
-deeplabcut.create_labeled_videos(config_path, videos)
+deeplabcut.create_labeled_video(config_path, videos)
 ```
